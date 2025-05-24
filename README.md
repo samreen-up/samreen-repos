@@ -1,4 +1,5 @@
 # samreen-repos
  My first git repos
  <br>
- Author-samreen.pinkey
+ Author-samreen
+
